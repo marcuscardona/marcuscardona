@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @marcuscardona
+- 👀 I’m interested in Data Analysis
+- 🌱 I’m currently learning SQL
+- 📫 You can reach me on marcusvgcardona@gmail.com
